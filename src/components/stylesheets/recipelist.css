@@ -1,0 +1,11 @@
+.list-items {
+  list-style-type: none;
+}
+
+.recipe-box {
+  border: 1px solid black;
+  margin: 1em;
+  text-align: center;
+  border-radius: 5%;
+}
+/*# sourceMappingURL=recipelist.css.map */
